@@ -1,4 +1,4 @@
 github.com/linxlib/conv v0.0.0-20200419055849-46faf16ac98f h1:A+0Iprv8RxCVdoiEZAMVutoff67X61o3l7sMlvdQAAw=
 github.com/linxlib/conv v0.0.0-20200419055849-46faf16ac98f/go.mod h1:3aUH0sipVf0h+/zRBfwuP7g/ni+55TQ1RLFpscdnpco=
-github.com/linxlib/map v0.0.3 h1:TyMPBIija7Fxr9WNjUo3phfveGKIk3IwSyX/TEc7Fng=
-github.com/linxlib/map v0.0.3/go.mod h1:DYJk8zp3mFUc68AzHqLyAgeeq+6QChc9zCd1pAdoySU=
+github.com/linxlib/map v0.0.4 h1:qnhS5Vb7Oc813kAVusDw4zAQA33/YJy8d9+bMEwEIV4=
+github.com/linxlib/map v0.0.4/go.mod h1:DYJk8zp3mFUc68AzHqLyAgeeq+6QChc9zCd1pAdoySU=

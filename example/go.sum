@@ -2,5 +2,9 @@ github.com/linxlib/conv v0.0.0-20200419055849-46faf16ac98f h1:A+0Iprv8RxCVdoiEZA
 github.com/linxlib/conv v0.0.0-20200419055849-46faf16ac98f/go.mod h1:3aUH0sipVf0h+/zRBfwuP7g/ni+55TQ1RLFpscdnpco=
 github.com/linxlib/map v0.0.2 h1:GhgKJg6Gomxf7TdvGfZqdRGWfhMKcccFIHNTEYQOMrY=
 github.com/linxlib/map v0.0.2/go.mod h1:DYJk8zp3mFUc68AzHqLyAgeeq+6QChc9zCd1pAdoySU=
+github.com/linxlib/map v0.0.3 h1:TyMPBIija7Fxr9WNjUo3phfveGKIk3IwSyX/TEc7Fng=
+github.com/linxlib/map v0.0.3/go.mod h1:DYJk8zp3mFUc68AzHqLyAgeeq+6QChc9zCd1pAdoySU=
 github.com/linxlib/tcp v0.0.2 h1:2LUw35qQ7ubQ1QqgXxwZWRKuRWa+7bYZvMzi3CaA0Uc=
 github.com/linxlib/tcp v0.0.2/go.mod h1:NKKlktOkAQGfeVfs6YsiTRrPsWA7FFi6bA0BXWobwf8=
+github.com/linxlib/tcp v0.0.3 h1:tA0ZPjE0EV4FiFZVzvaQO1/l5HE/VNJ021EVfesgEqw=
+github.com/linxlib/tcp v0.0.3/go.mod h1:7e4PNaVll91UI+W4DbdEVKtrngQc8f1+OCGbRRfN/28=
