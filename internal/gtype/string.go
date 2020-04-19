@@ -2,6 +2,7 @@ package gtype
 
 import (
 	"bytes"
+	"github.com/linxlib/conv"
 	"sync/atomic"
 )
 
@@ -48,17 +49,17 @@ func (v *String) String() string {
 
 // MarshalJSON implements the interface MarshalJSON for json.Marshal.
 func (v *String) MarshalJSON() ([]byte, error) {
-	return gconv.UnsafeStrToBytes(`"` + v.Val() + `"`), nil
+	return conv.UnsafeStrToBytes(`"` + v.Val() + `"`), nil
 }
 
 // UnmarshalJSON implements the interface UnmarshalJSON for json.Unmarshal.
 func (v *String) UnmarshalJSON(b []byte) error {
-	v.Set(gconv.UnsafeBytesToStr(bytes.Trim(b, `"`)))
+	v.Set(conv.UnsafeBytesToStr(bytes.Trim(b, `"`)))
 	return nil
 }
 
 // UnmarshalValue is an interface implement which sets any type of value for <v>.
 func (v *String) UnmarshalValue(value interface{}) error {
-	v.Set(gconv.String(value))
+	v.Set(conv.String(value))
 	return nil
 }

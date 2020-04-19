@@ -2,6 +2,7 @@ package gtype
 
 import (
 	"encoding/json"
+	"github.com/linxlib/conv"
 	"sync/atomic"
 )
 
@@ -40,7 +41,7 @@ func (v *Interface) Val() interface{} {
 
 // String implements String interface for string printing.
 func (v *Interface) String() string {
-	return gconv.String(v.Val())
+	return conv.String(v.Val())
 }
 
 // MarshalJSON implements the interface MarshalJSON for json.Marshal.
