@@ -1,6 +1,6 @@
 github.com/linxlib/conv v0.0.0-20200419055849-46faf16ac98f h1:A+0Iprv8RxCVdoiEZAMVutoff67X61o3l7sMlvdQAAw=
 github.com/linxlib/conv v0.0.0-20200419055849-46faf16ac98f/go.mod h1:3aUH0sipVf0h+/zRBfwuP7g/ni+55TQ1RLFpscdnpco=
-github.com/linxlib/map v0.0.0-20200419060042-78df6ab6cac6 h1:tQo1IsOqbft1GEd3eoZwfD/taZUvzX5FCMGTOu/AqJk=
-github.com/linxlib/map v0.0.0-20200419060042-78df6ab6cac6/go.mod h1:DYJk8zp3mFUc68AzHqLyAgeeq+6QChc9zCd1pAdoySU=
-github.com/linxlib/tcp v0.0.1 h1:e3UKN95/thTMwa1qTLSj5ymNDI3ZRsSCXDsw7mc0lks=
-github.com/linxlib/tcp v0.0.1/go.mod h1:WMWOR5EWLeaDEhRLiMO9Timk7Q//rINf9yLT1tyNhFU=
+github.com/linxlib/map v0.0.2 h1:GhgKJg6Gomxf7TdvGfZqdRGWfhMKcccFIHNTEYQOMrY=
+github.com/linxlib/map v0.0.2/go.mod h1:DYJk8zp3mFUc68AzHqLyAgeeq+6QChc9zCd1pAdoySU=
+github.com/linxlib/tcp v0.0.2 h1:2LUw35qQ7ubQ1QqgXxwZWRKuRWa+7bYZvMzi3CaA0Uc=
+github.com/linxlib/tcp v0.0.2/go.mod h1:NKKlktOkAQGfeVfs6YsiTRrPsWA7FFi6bA0BXWobwf8=
